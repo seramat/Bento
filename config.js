@@ -23,14 +23,14 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+  weatherKey: '549b9dcbf802d5dc8dbc830d01ed17bf',
+  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '31.216',
+  defaultLongitude: '121.545',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -48,7 +48,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
